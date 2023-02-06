@@ -7,7 +7,7 @@
 ##
 <h2> Certificados: </h2>
 
-Master Practitioner em Programação Neurolinguística;
+Master Practitioner em Programação Neurolinguística
 
 ##
 
