@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="1584" height="396" alt="Tech Solutions   Human Behavior" src="https://github.com/user-attachments/assets/3cd185ed-2c4d-4317-aa39-da8755162806" />
+  <img width="1584" height="396" alt="Tech Solutions   Human Behavior" src="https://github.com/user-attachments/assets/d8095240-d028-4827-89e5-e537e9fc868f" />
+
 
   # Gian Zanatelli
   ### 🛡️ Tech Solutions & Human Behavior
